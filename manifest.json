@@ -10,7 +10,7 @@
     "versions": [
       {
         "version": "0.4.0.0",
-        "changelog": "Rebuild Arr Watch for Jellyfin 12.0 final, .NET 10 and File Transformation 3.0 so Radarr digital releases and Sonarr season premieres remain available to JellySpotlight.",
+        "changelog": "Jellyfin 12 only: rebuild Arr Watch for Jellyfin 12.0 final, .NET 10 and File Transformation 3.0. Jellyfin 10.11 servers must use the retained 0.3.x releases.",
         "targetAbi": "12.0.0.0",
         "sourceUrl": "https://github.com/skijk/jellyfin-plugin-arrwatch-repository/releases/download/0.4.0.0/ArrWatch_0.4.0.0_jf12.0.0.zip",
         "checksum": "67F05343FE8CF4511A9E1BF07C1BCC26",
